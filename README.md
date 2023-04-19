@@ -9,8 +9,11 @@ nem i
 ```
 
 > Crie um arquivo .env na pasta raiz do projeto, após isso crie uma variável chamada "connectString" e atribua a ela o link de conexão do seu DataBase do mongoDb
+```
+connectString="url"
+```
 
-> voloque no terminal 
+> coloque no terminal 
 ```
 npm start 
 ```
